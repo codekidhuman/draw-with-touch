@@ -1,0 +1,20 @@
+body
+{
+    background-size: cover;
+}
+#colour, #WOL
+{
+    margin: 10px;
+    background-color: bisque;
+    border-radius: 5px;
+}
+.btn-info
+{
+    box-shadow: 5px 5px 5px gray;
+}
+#can
+{
+    background-color: rgb(241, 241, 241);
+    border-radius: 15px;
+    border: 10px rgb(219, 168, 60) solid;
+}
